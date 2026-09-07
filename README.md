@@ -17,11 +17,9 @@
 
 - 💬 Posez-moi des questions sur **React, Next.js, Node.js, Express, MongoDB et TypeScript**
 
-- 👨‍💻 Tous mes projets sont visibles sur [winchlabs.netlify.app](https://winchlabs.netlify.app)
+- 👨‍💻 Tous mes projets sont visibles sur [mehdilabsdz.netlify.app](https://mehdilabsdz.netlify.app)
 
-- 📫 Comment me joindre : **VOTRE_EMAIL@exemple.com**
-
-- 📄 Mon parcours : [CV](LIEN_VERS_VOTRE_CV)
+- 📫 Comment me joindre : **mehdiabdi.dev@exemple.com**
 
 - ⚡ Anecdote : **j'ai géré des chantiers en électricité et domotique avant de coder — ça aide à livrer dans les délais**
 
