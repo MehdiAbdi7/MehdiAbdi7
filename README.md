@@ -19,7 +19,7 @@
 
 - 👨‍💻 Tous mes projets sont visibles sur [mehdilabsdz.netlify.app](https://mehdilabsdz.netlify.app)
 
-- 📫 Comment me joindre : **mehdiabdi.dev@exemple.com**
+- 📫 Comment me joindre : **mehdiabdi.dev@outlook.fr**
 
 - ⚡ Anecdote : **j'ai géré des chantiers en électricité et domotique avant de coder — ça aide à livrer dans les délais**
 
