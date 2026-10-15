@@ -32,9 +32,9 @@ Ordering platform for a fast food with two stores. Customers order from their ta
 
 `Next.js` `TypeScript` `Redux Toolkit` `Express 5` `MongoDB` `Socket.io` `Zod`
 
-### 💡 [HCA ELEC](https://github.com/MehdiAbdi7/HCA-ELEC) · [Live site](https://hca-elec.com)
+### 💡 [HCA ELEC](https://github.com/MehdiAbdi7/HCA-ELEC) · [Live demo](https://hca-elec.vercel.app)
 
-Online store for electrical and lighting supplies. Catalogue filters live in the URL, the cart stores only product IDs, and orders go out as a pre-filled WhatsApp message, with delivery to all 58 wilayas.
+Online store for electrical and lighting supplies, built for my former company, now closed (the site stays online as a demo). Catalogue filters live in the URL, the cart stores only product IDs, and orders go out as a pre-filled WhatsApp message, with delivery to all 58 wilayas.
 
 `Next.js 16` `TypeScript` `Tailwind CSS v4` `Redux Toolkit` `Zod`
 
